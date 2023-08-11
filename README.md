@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Vaidya</h1>
 <h3 align="center">"Computer Science Student | Enthusiastic Technophile | Web Development | Coding | Problem Solving | Graphic Design"</h3>
 
-<img align="right" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding">
+<img align="center" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh432004&label=Profile%20views&color=0e75b6&style=flat" alt="harsh432004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh432004" alt="harsh432004" /></a> </p>
