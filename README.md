@@ -1,3 +1,4 @@
+![logo](https://github.com/harsh432004/harsh432004/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Harsh Vaidya</h1>
 <h3 align="center">"Computer Science Student | Enthusiastic Technophile | Web Development | Coding | Problem Solving | Graphic Design"</h3>
 
